@@ -49,7 +49,7 @@ water_cooler_ai/
 
 The full dataset (images + labels for train/val) is too large to host directly on GitHub. Download it from Google Drive:
 
-🔗 **[Download Dataset](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+🔗 **[Download Dataset](https://drive.google.com/file/d/10fe9Q4vCQEKZByHVAX5JljyQUl8LUuCo/view?usp=sharing)**
 
 After downloading, extract it so the folder structure matches:
 
